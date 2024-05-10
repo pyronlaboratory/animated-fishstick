@@ -7,15 +7,15 @@
         "description": "",
         "items": [
           {
-            "id": "4c6f43b7-c687-49fb-8c05-71cb75f0de7c",
+            "id": "c6f46ff1-1bf2-49ab-9f6b-b571ecf9f38b",
             "ancestors": [],
             "type": "function",
             "name": "fn",
             "location": {
               "offset": " ",
               "indent": 0,
-              "insert": 1,
-              "start": 1
+              "insert": 2,
+              "start": 2
             },
             "params": [],
             "returns": true,
@@ -28,7 +28,7 @@
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "`false`.\n\n\t* The return value is `false`, indicating that the function does not return any value.\n"
+                "description": "`false`.\n\n\t* The returned value is `false`.\n"
               }
             }
           }
