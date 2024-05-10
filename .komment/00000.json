@@ -1,0 +1,39 @@
+[
+  {
+    "name": "test.js",
+    "path": "test.js",
+    "content": {
+      "structured": {
+        "description": "",
+        "items": [
+          {
+            "id": "58bd9135-54bd-4af2-86ec-6a71d6b213a7",
+            "ancestors": [],
+            "type": "function",
+            "name": "fn",
+            "location": {
+              "offset": " ",
+              "indent": 0,
+              "insert": 1,
+              "start": 1
+            },
+            "params": [],
+            "returns": true,
+            "skip": false,
+            "jsx": false,
+            "docLength": null,
+            "length": 6,
+            "comment": {
+              "description": "Returns `false`.",
+              "params": [],
+              "returns": {
+                "type": "boolean",
+                "description": "`false`."
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]
