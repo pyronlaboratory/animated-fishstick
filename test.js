@@ -1,16 +1,15 @@
 /**
  * @description Returns `false`.
  * 
- * @returns { false` value } `false`.
+ * @returns { false } `false`.
  * 
- * 		- Type: The output is a boolean value, which means it can only have two possible
- * values: true or false.
- * 		- Value: The output is set to false.
- * 		- Immutable: The output cannot be changed once it is returned by the function.
+ * 		- `return false`: This indicates that the function does not return any value.
  */
 const fn = () => {
    return false;
 
    
+
+
    
 }
