@@ -3,12 +3,12 @@
  * 
  * @returns { false } `false`.
  * 
- * 		- The function returns a value of type `bool`.
- * 		- The function always returns `false`.
- * 		- The function does not take any arguments or modifiers.
+ * 		- The return value is `false`, indicating that the function does not return any
+ * value.
  */
 const fn = () => {
    return false;
+
 
    
 }
