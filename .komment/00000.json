@@ -7,7 +7,7 @@
         "description": "",
         "items": [
           {
-            "id": "f144c988-2fb8-425b-90e8-7f5c94c88416",
+            "id": "5d6ae586-3736-4cd5-b83f-1df537fe124a",
             "ancestors": [],
             "type": "function",
             "name": "fn",
@@ -22,13 +22,13 @@
             "skip": false,
             "jsx": false,
             "docLength": null,
-            "length": 5,
+            "length": 6,
             "comment": {
               "description": "Returns `false`.",
               "params": [],
               "returns": {
-                "type": "false",
-                "description": "`false`.\n\n\t* The function returns `false`, indicating that it does not evaluate to true or any non-zero value. This means that the function always returns a falsy value, which can be useful in certain programming scenarios.\n"
+                "type": "false` value",
+                "description": "`false`.\n\n\t* Type: The output is a boolean value, which means it can only have two possible values: true or false.\n\t* Value: The output is set to false.\n\t* Immutable: The output cannot be changed once it is returned by the function.\n"
               }
             }
           }
