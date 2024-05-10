@@ -1,4 +1,4 @@
-// @komment write all
+// @komment ignore all
 const fn = () => {
    return false;
 
