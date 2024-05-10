@@ -7,7 +7,7 @@
         "description": "",
         "items": [
           {
-            "id": "4c6f43b7-c687-49fb-8c05-71cb75f0de7c",
+            "id": "6720352b-82d2-4d4c-93ec-6965fec95a2e",
             "ancestors": [],
             "type": "function",
             "name": "fn",
@@ -28,7 +28,7 @@
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "`false`.\n\n\t* The return value is `false`, indicating that the function does not return any value.\n"
+                "description": "`false`.\n\n\t* The function returns a value of type `false`.\n"
               }
             }
           }
