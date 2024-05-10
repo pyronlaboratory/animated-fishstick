@@ -7,15 +7,15 @@
         "description": "",
         "items": [
           {
-            "id": "06b3f161-dc0b-4cf9-88a2-f7833d0b801b",
+            "id": "365cc998-f5a1-4d29-bd55-526d0302601f",
             "ancestors": [],
             "type": "function",
             "name": "fn",
             "location": {
               "offset": " ",
               "indent": 0,
-              "insert": 2,
-              "start": 2
+              "insert": 3,
+              "start": 3
             },
             "params": [],
             "returns": true,
@@ -28,7 +28,7 @@
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "`false`.\n\n\t* The return value is `false`.\n"
+                "description": "`false`.\n\n\tThe output is a `Boolean` value, indicating whether the expression `return false;` evaluates to `true` or `false`.\n"
               }
             }
           }
