@@ -7,7 +7,7 @@
         "description": "",
         "items": [
           {
-            "id": "6720352b-82d2-4d4c-93ec-6965fec95a2e",
+            "id": "33d82ed0-14af-47a3-bd65-5a5688efb1d0",
             "ancestors": [],
             "type": "function",
             "name": "fn",
@@ -22,13 +22,13 @@
             "skip": false,
             "jsx": false,
             "docLength": null,
-            "length": 6,
+            "length": 7,
             "comment": {
               "description": "Returns `false`.",
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "`false`.\n\n\t* The function returns a value of type `false`.\n"
+                "description": "`false`.\n\n\t* The function returns `false`. This indicates that the function did not find any matching elements in the list.\n"
               }
             }
           }
