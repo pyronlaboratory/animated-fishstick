@@ -2,6 +2,4 @@ const fn = () => {
    return false;
 
 
-
-   
 }
