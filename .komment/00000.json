@@ -7,7 +7,7 @@
         "description": "",
         "items": [
           {
-            "id": "c9459ed0-ecbd-426a-b309-23852bdda2f0",
+            "id": "a3530fa7-e47f-4fd0-81fa-415f668bc1cb",
             "ancestors": [],
             "type": "function",
             "name": "fn",
@@ -15,20 +15,20 @@
               "offset": " ",
               "indent": 0,
               "insert": 2,
-              "start": 10
+              "start": 14
             },
             "params": [],
             "returns": true,
             "skip": false,
             "jsx": false,
-            "docLength": 8,
-            "length": 6,
+            "docLength": 12,
+            "length": 7,
             "comment": {
               "description": "Returns `false`.",
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "\"false\".\n\n\t* Return type: The function returns a boolean value, which means it can take on only two values - true or false.\n\t* Value: The function always returns false. This means that the output of the function is always the same, regardless of any input provided to the function.\n\t* Scope: The function has no scope as it is defined inside an IIFE (Immediately Invoked Function Expression) and does not access any external variables or functions.\n"
+                "description": "`false`.\n\n\t* The return value is false, indicating that the function does not return any value.\n"
               }
             }
           }
