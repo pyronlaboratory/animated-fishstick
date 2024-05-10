@@ -7,15 +7,15 @@
         "description": "",
         "items": [
           {
-            "id": "012cead1-2b52-47b4-b33f-a1606d716ae2",
+            "id": "06b3f161-dc0b-4cf9-88a2-f7833d0b801b",
             "ancestors": [],
             "type": "function",
             "name": "fn",
             "location": {
               "offset": " ",
               "indent": 0,
-              "insert": 1,
-              "start": 1
+              "insert": 2,
+              "start": 2
             },
             "params": [],
             "returns": true,
@@ -27,8 +27,8 @@
               "description": "Returns `false`.",
               "params": [],
               "returns": {
-                "type": "boolean",
-                "description": "\"false\"."
+                "type": "false",
+                "description": "`false`.\n\n\t* The return value is `false`.\n"
               }
             }
           }
