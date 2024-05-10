@@ -4,13 +4,14 @@
  * 
  * @returns { false } `false`.
  * 
- * 		- The output is a false value.
- * 
- * 	The return type of the `fn` function is `bool`, indicating that it returns a
- * boolean value.
+ * 		- The `return` statement at the end of the function indicates that the function
+ * does not produce any output.
+ * 		- The `false` value returned by the function indicates that the function did not
+ * find a solution to the problem it was given.
  */
 const fn = () => {
    return false;
 
 
+   
 }

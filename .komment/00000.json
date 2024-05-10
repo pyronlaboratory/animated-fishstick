@@ -7,7 +7,7 @@
         "description": "",
         "items": [
           {
-            "id": "65638dca-14b1-4c98-bbf8-b825a0fcc537",
+            "id": "0e77f1f7-6cc0-49cd-a7c8-bb4430f01cea",
             "ancestors": [],
             "type": "function",
             "name": "fn",
@@ -22,13 +22,13 @@
             "skip": false,
             "jsx": false,
             "docLength": null,
-            "length": 5,
+            "length": 6,
             "comment": {
               "description": "Returns `false`.",
               "params": [],
               "returns": {
                 "type": "false",
-                "description": "`false`.\n\n\t* The output is a false value.\n\t\n\tThe return type of the `fn` function is `bool`, indicating that it returns a boolean value.\n"
+                "description": "`false`.\n\n\t* The `return` statement at the end of the function indicates that the function does not produce any output.\n\t* The `false` value returned by the function indicates that the function did not find a solution to the problem it was given.\n"
               }
             }
           }
