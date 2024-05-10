@@ -1,15 +1,15 @@
-
-
+// @komment write all
 /**
  * @description Returns `false`.
  * 
  * @returns { false } `false`.
  * 
- * 	The output is a `Boolean` value, indicating whether the expression `return false;`
- * evaluates to `true` or `false`.
+ * 		- The output is a boolean value, specifically `false`.
  */
 const fn = () => {
    return false;
 
+
+   
 
 }
