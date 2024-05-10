@@ -1,6 +1,5 @@
 const fn = () => {
    return false;
 
-
-   
+ 
 }
